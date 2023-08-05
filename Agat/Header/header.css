@@ -102,7 +102,6 @@ header{
     margin-bottom: 20px;
 }
 .subMenu ul{
-    border-top: 2px solid white;
 
 }
 .subMenu ul li{
@@ -113,7 +112,6 @@ header{
 }
 .subMenu ul li a{
     display: block;
-    width: 90px;
     height: 25px;
     text-decoration: none;
     font-family:"Exo2-Medium",sans-serif;
